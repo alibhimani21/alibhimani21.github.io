@@ -1,6 +1,6 @@
 body {
   background-image: url('./assets/background.png');
-  object-fit: cover;
+  object-fit: contain;
 }
 
 h1 {
