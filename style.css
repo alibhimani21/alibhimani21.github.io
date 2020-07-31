@@ -1,0 +1,8 @@
+body {
+  background-image: url('./assets/background.png');
+  object-fit: cover;
+}
+
+h1 {
+  color: green;
+}
